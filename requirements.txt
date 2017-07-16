@@ -4,3 +4,4 @@ tensorflow
 opencv-python
 pypiwin32
 tflearn
+inputs
